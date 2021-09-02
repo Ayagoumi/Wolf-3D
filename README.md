@@ -52,16 +52,16 @@ To run the program:
 ## Screenshots
 
 # Home 
-<img src="resources/screenshots/home.JPG" width="1280" />
+<img src="resources/screenshots/home.JPG" width="900" />
 
 # Select Texture
-<img src="resources/screenshots/texture.JPG" width="1280" />
+<img src="resources/screenshots/texture.JPG" width="900" />
 
 # First Wall Texture 
-<img src="resources/screenshots/map1.JPG" width="1280" />
+<img src="resources/screenshots/map1.JPG" width="900" />
 
 # Second Wall Texture 
-<img src="resources/screenshots/map2.JPG" width="1280" />
+<img src="resources/screenshots/map2.JPG" width="900" />
 
 # Third Wall Texture 
-<img src="resources/screenshots/map3.JPG" width="1280" />
+<img src="resources/screenshots/map3.JPG" width="900" />
