@@ -6,7 +6,7 @@
 /*   By: ayagoumi <ayagoumi@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/02/17 19:21:28 by ayagoumi          #+#    #+#             */
-/*   Updated: 2020/12/16 04:02:26 by ayagoumi         ###   ########.fr       */
+/*   Updated: 2021/09/02 15:36:05 by ayagoumi         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -14,7 +14,6 @@
 # define WOLF_3D_H
 
 # include "../libft/libft.h"
-# include "mlx.h"
 # include <math.h>
 # include <unistd.h>
 # include <stdlib.h>
