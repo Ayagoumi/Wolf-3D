@@ -6,7 +6,7 @@ This project is a 3D graphically “realistic” representation that we could ha
 from inside a maze in a subjective view. This representation uses the
 Ray-Casting, and my first interaction with SDL2 libraries.
 
-[![previewg_gif](https://youtu.be/Ao9eQynjYZE)](https://youtu.be/Ao9eQynjYZE)
+[![previewg_gif](resources/screenshots/home.JPG)](https://youtu.be/Ao9eQynjYZE)
 
 ### Requirements
 
